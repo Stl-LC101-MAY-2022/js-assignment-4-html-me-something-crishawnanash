@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+
+.funParagraph{
+    color:green;
+}
+
+#mainHeading{
+    color:red;
+}
+
+body{
+    align-content: center;
+    margin: 8px;
+    text-align: center;
+    display: block;
+}
+
+img{
+    height: 250px;
+    float: left;
+    padding: 10px;
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+}
+footer{
+    text-align: center;
+}
